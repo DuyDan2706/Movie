@@ -7,6 +7,6 @@
 * ....
 
 ###  screen shot 
-<!-- ![Movie with  TDD](https://github.com/DuyDan2706/InteriorDesign/blob/main/img/Index.jpg) -->
+![Movie with  TDD](https://github.com/DuyDan2706/Movie/blob/main/img/Manhinh.JPG)
 
   2021 duy đan | fb/duydan272000 | mail/duydan272000@gmail.com# Movie
